@@ -31,4 +31,8 @@ async function startApolloServer() {
 
 startApolloServer();
 
+app.get('/', (req, res) => {
+  res.redirect(`${server.graphqlPath}`);
+});
+
 module.exports = httpServer;
