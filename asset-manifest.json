@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/apollo-odyssey/static/css/main.ba909158.css",
-    "main.js": "/apollo-odyssey/static/js/main.6d51337d.js",
+    "main.js": "/apollo-odyssey/static/js/main.bd48c2cd.js",
     "index.html": "/apollo-odyssey/index.html",
     "main.ba909158.css.map": "/apollo-odyssey/static/css/main.ba909158.css.map",
-    "main.6d51337d.js.map": "/apollo-odyssey/static/js/main.6d51337d.js.map"
+    "main.bd48c2cd.js.map": "/apollo-odyssey/static/js/main.bd48c2cd.js.map"
   },
   "entrypoints": [
     "static/css/main.ba909158.css",
-    "static/js/main.6d51337d.js"
+    "static/js/main.bd48c2cd.js"
   ]
 }
