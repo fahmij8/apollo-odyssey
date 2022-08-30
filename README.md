@@ -22,7 +22,7 @@ This will start the GraphQL API server.
 To check the **final** stage of the server, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
 
 ```bash
-git checkout final
+git checkout final 
 ```
 
 ## Getting Help
