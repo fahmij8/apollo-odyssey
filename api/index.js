@@ -1,3 +1,5 @@
+require('ts-tiny-invariant');
+
 const { ApolloServer } = require('apollo-server-express');
 const { ApolloServerPluginDrainHttpServer } = require('apollo-server-core');
 const express = require('express');
