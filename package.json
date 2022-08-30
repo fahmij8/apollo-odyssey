@@ -27,7 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "exec-deploy": "npm run deploy -- -m 'Deploy React app to GitHub Pages'"
   },
   "eslintConfig": {
     "extends": "react-app"
