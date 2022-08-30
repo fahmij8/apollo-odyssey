@@ -8,9 +8,10 @@ import Module from './module';
 export default function Pages() {
   return (
     <Router primary={false} component={Fragment}>
-      <Tracks path="/" />
-      <Track path="/track/:trackId" />
-      <Module path="/track/:trackId/module/:moduleId" />
+      <Tracks path='/apollo-odyssey' />
+      <Track path='/apollo-odyssey/track/:trackId' />
+      <Module path='/apollo-odyssey/track/:trackId/module/:moduleId' />
+      <Tracks path='/*' />
     </Router>
   );
 }
