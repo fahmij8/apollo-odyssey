@@ -13,7 +13,7 @@ const Header = ({ children }) => {
     <HeaderBar>
       <Container>
         <HomeButtonContainer>
-          <HomeLink to="/">
+          <HomeLink to='/apollo-odyssey'>
             <HomeButton>
               <LogoContainer>
                 <Logo src={logo} />
