@@ -5,7 +5,7 @@ import Pages from './pages';
 import { ApolloProvider, ApolloClient, InMemoryCache } from '@apollo/client';
 
 const client = new ApolloClient({
-  uri: 'https://catstronout-server-fahmi.vercel.app/', // change to YOUR own production server
+  uri: 'https://catstronout-server-fahmi.vercel.app/graphql', // change to YOUR own production server
   cache: new InMemoryCache(),
   name: 'web',
   version: '1.0',
